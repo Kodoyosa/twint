@@ -72,6 +72,7 @@ twint.run.Search(c)
 - CSV
 - JSON
 - SQLite
+- Mysql (DB collation utf8mb4)
 - Elasticsearch
 
 ### Elasticsearch Setup
